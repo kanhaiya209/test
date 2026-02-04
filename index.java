@@ -6,6 +6,7 @@ public class index {
         int num1;
         int num2;
 
+        System.out.println("Calculater Progam:");
         System.out.print("Enter Numbers: ");
         num1 = sc.nextInt();
         num2 = sc.nextInt();
